@@ -1,5 +1,3 @@
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')print('Hello, World!')
+print('Hello, what is your name?')
 
-print('Goodbye, World!')
+print('Goodbye!')
